@@ -1,73 +1,81 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=180&section=header&text=FullStackPath&fontSize=64&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20·%20广州&descAlignY=60&descSize=18" width="100%"/>
+</div>
+<br/>
+<div align="center">
+  <a href="mailto:ss.ok@foxmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ss.ok%40foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/FullStackPath">
+    <img src="https://img.shields.io/badge/GitHub-FullStackPath-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://gitee.com/FullStackPath">
+    <img src="https://img.shields.io/badge/Gitee-FullStackPath-C71D23?style=for-the-badge&logo=gitee&logoColor=white"/>
+  </a>
+</div>
+<br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+---
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 您好，欢迎光临</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=1B6CA8&center=true&vCenter=true&width=600&lines=用代码表达言语的魅力，用代码书写山河的壮丽。;Full-Stack+Developer+%7C+Vue3+%2B+Spring+Boot;Keep+coding%2C+keep+growing." />
+</div>
 
+---
 
-### 关于我
+## 🛠 技术栈
 
-- 🌱 广州全栈
-- 💬 有任何前后端或者项目相关咨询，欢迎提出探讨~  [ss.ok@foxmail.com](mailto:ss.ok@foxmail.com)
-- ⚡ 爱好: 写代码
-- github: https://github.com/mxywds
-- gitee: https://gitee.com/mxywds
+<div align="center">
 
+<b>前端</b>
 
-### 🛠 技术栈
-<p>
- <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=html5&logoColor=white" />
-<img alt="javascript" src="https://img.shields.io/badge/-ECMAScript6-F7DF1E?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="vue" src="https://img.shields.io/badge/-Vue-5A29E4?style=flat-square&logo=vuedotjs&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-<img alt="Axios" src="https://img.shields.io/badge/-Axios-7952B3?style=flat-square&logo=axios&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,sass,vite&perline=8" />
 
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
- <img alt="yarn" src="https://img.shields.io/badge/-YARN-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
- <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
- <img alt="ECharts" src="https://img.shields.io/badge/-ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" />
- <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<b>后端 & 服务</b>
 
-</p>
-<p>
-<img alt="Java" src="https://img.shields.io/badge/-Java-1a73e8?style=flat-square&logo=coffeescript&logoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
- <img alt="flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img alt="mySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
- <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="redis" src="https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
-<img alt="elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-FF6A00?style=flat-square&logo=elasticsearch&logoColor=white" />
-<img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img alt="springboot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img alt="springsecurity" src="https://img.shields.io/badge/-Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-<img alt="alibabacloud" src="https://img.shields.io/badge/-Spring Cloud Alibaba-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" />
-<img alt="rabbitmq" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs,rabbitmq,kafka,kubernetes&perline=8" />
 
+<b>数据库 & 运维</b>
 
-</p>
-<p>
- <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
- <img alt="gitee" src="https://img.shields.io/badge/-Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" />
- <img alt="gitlab" src="https://img.shields.io/badge/-Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,elasticsearch,postgres,docker,nginx,linux&perline=8" />
 
-<img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
+<b>开发工具</b>
 
-<img alt="maven" src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
-<img alt="gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
- 
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
-<img alt="Android" src="https://img.shields.io/badge/-Android-34A853?style=flat-square&logo=android&logoColor=white" />
-<img alt="swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img alt="JMeter" src="https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,maven,idea,androidstudio,postman,github,npm,pnpm&perline=8" />
 
-</p>
+</div>
 
+---
 
-> ***用代码表达言语的魅力，用代码书写山河的壮丽。***
+## 📊 数据统计
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FullStackPath&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=FullStackPath&theme=react&hide_border=true&date_format=%5BY.%5Dn.j" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FullStackPath&layout=compact&theme=react&hide_border=true&langs_count=8" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FullStackPath&theme=github_dark&utcOffset=8" />
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullStackPath&theme=react-dark&hide_border=true&area=true" width="97%"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6CA8,50:154C79,100:0A2342&height=100&section=footer" width="100%"/>
+</div>
