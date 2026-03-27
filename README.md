@@ -25,6 +25,14 @@
 
 ---
 
+## 💼 求职状态
+
+- 正在寻找新的工作机会
+- 方向：前端 / Java后端 / 全栈开发
+- 城市：广州
+- 欢迎联系交流或内推
+---
+
 ## 🛠 技术栈
 
 <div align="center">
@@ -55,7 +63,7 @@
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FullStackPath&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+      <img src="https://github-readme-stats-mxywds-projects.vercel.app/api?username=FullStackPath&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=FullStackPath&theme=react&hide_border=true&date_format=%5BY.%5Dn.j" />
@@ -63,7 +71,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FullStackPath&layout=compact&theme=react&hide_border=true&langs_count=8" />
+      <img src="https://github-readme-stats-mxywds-projects.vercel.app/api/top-langs/?username=FullStackPath&layout=compact&theme=react&hide_border=true&langs_count=8" />
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FullStackPath&theme=github_dark&utcOffset=8" />
