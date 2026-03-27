@@ -58,7 +58,6 @@
 ---
 
 ## 📊 数据统计
-[![Readme Card](https://github-readme-stats-beta-ten-p6scpli1hk.vercel.app/api/pin/?username=FullStackPath&repo=web-to-svg)](https://github.com/mxywds/web-to-svg)
 
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="6">
