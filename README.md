@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%E7%94%A8%E4%BB%A3%E7%A0%81%E8%A1%A8%E8%BE%BE%E8%A8%80%E8%AF%AD%E7%9A%84%E9%AD%85%E5%8A%9B%EF%BC%8C%E7%94%A8%E4%BB%A3%E7%A0%81%E4%B9%A6%E5%86%99%E5%B1%B1%E6%B2%B3%E7%9A%84%E5%A3%AE%E4%B8%BD;%E4%B8%80%E4%B8%AA%E7%83%AD%E7%88%B1%E6%8A%80%E6%9C%AF%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88;%E5%AD%A6%E5%88%B0%E5%93%AA%EF%BC%8C%E5%86%99%E5%88%B0%E5%93%AA%EF%BC%8C%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1%E7%9A%84%E6%88%90%E9%95%BF;Keep+coding%2C+keep+growing." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&pause=1000&center=true&vCenter=true&random=true&width=435&lines=%E7%94%A8%E4%BB%A3%E7%A0%81%E8%A1%A8%E8%BE%BE%E8%A8%80%E8%AF%AD%E7%9A%84%E9%AD%85%E5%8A%9B%EF%BC%8C%E7%94%A8%E4%BB%A3%E7%A0%81%E4%B9%A6%E5%86%99%E5%B1%B1%E6%B2%B3%E7%9A%84%E5%A3%AE%E4%B8%BD;%E4%B8%80%E4%B8%AA%E7%83%AD%E7%88%B1%E6%8A%80%E6%9C%AF%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88;%E5%AD%A6%E5%88%B0%E5%93%AA%EF%BC%8C%E5%86%99%E5%88%B0%E5%93%AA%EF%BC%8C%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1%E7%9A%84%E6%88%90%E9%95%BF;%E7%94%A8%E5%8C%A0%E5%BF%83%E6%95%B2%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%AF%B9%E6%AF%8F%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E8%B4%9F%E8%B4%A3" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -63,7 +63,7 @@
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td>
-      <img src="https://github-readme-stats-beta-ten-p6scpli1hk.vercel.app/api?username=FullStackPath&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=500" />
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=FullStackPath&langs_count=6&display_format=percent&theme=react" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=FullStackPath&theme=react&hide_border=true&date_format=%5BY.%5Dn.j&card_width=500" />
