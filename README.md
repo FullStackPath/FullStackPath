@@ -63,15 +63,7 @@
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=FullStackPath&langs_count=6&display_format=percent&theme=react" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=FullStackPath&theme=react&hide_border=true&date_format=%5BY.%5Dn.j&card_width=500" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-beta-ten-p6scpli1hk.vercel.app/api/top-langs/?username=FullStackPath&theme=react&hide_border=true&langs_count=8&stats_format=bytes&card_width=500" />
+   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=FullStackPath&langs_count=6&display_format=percent&theme=react" />
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FullStackPath&theme=react&utcOffset=8" width="500" />
