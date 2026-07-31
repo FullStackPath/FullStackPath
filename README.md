@@ -63,7 +63,7 @@
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td>
-   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=FullStackPath&langs_count=6&display_format=percent&theme=react" />
+   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=7513ae09-512f-4c46-aa17-373364a00e08&langs_count=10&display_format=percent&theme=react" />
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FullStackPath&theme=react&utcOffset=8" width="500" />
