@@ -60,20 +60,19 @@
 ## 📊 数据统计
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="6">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=7513ae09-512f-4c46-aa17-373364a00e08&langs_count=10&display_format=percent&theme=react" />
+   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=7513ae09-512f-4c46-aa17-373364a00e08&langs_count=7&theme=github_dark_dimmed"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FullStackPath&theme=react&utcOffset=8" width="500" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=FullStackPath&layout=donut&langs_count=7&theme=github_dark_dimmed"/>
     </td>
   </tr>
 </table>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullStackPath&theme=react&hide_border=true&area=true" width="97%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullStackPath&theme=react&hide_border=true&area=true" width="89%"/>
 </div>
 
 <div align="center">
