@@ -3,6 +3,12 @@
 </div>
 <br/>
 <div align="center">
+ <a href="https://vibecafe.ai/@fullstackpath">
+    <img src="https://vibecafe.ai/@fullstackpath/badge"  width="49%"/>
+  </a> 
+</div>
+<br/>
+<div align="center">
   <a href="mailto:ss.ok@foxmail.com">
     <img src="https://img.shields.io/badge/Gmail-ss.ok%40foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
