@@ -31,6 +31,20 @@
 
 ---
 
+<p>
+  我是一个热爱技术的全栈工程师，熟悉 SpringBoot、SpringCloud、Python、Vue、React、Docker、小程序、Android 等技术栈。我的全栈功底，早在 AI 编程流行之前就已经建立，并经过长期实践不断打磨。
+
+我坚持用匠心对待每一行代码，对交付的软件质量负责。我注重软件架构、工程规范与代码质量，也始终清楚：不能把 AI 的能力误认为是自己的能力。
+
+AI 生成的代码，我会投入大量时间进行审核、理解、重构与优化。因为人的本能倾向于降低认知消耗，AI 越强大，我们越容易在面对“监工式工作”时产生惰性——觉得既然 AI 能完成，是否可以少思考一些？可以，但随之被消耗的，还有自身的成长。
+
+管理 Agent 与管理团队成员一样，真正困难的不是让它完成任务，而是持续保持判断力和控制力。想偷懒很容易，但也必须明白，滥竽充数的代价最终会反馈到自身能力的退化。
+
+在 Vibe Coding 甚嚣尘上、独立思考和软件架构能力日益稀缺的时代，我更需要警醒自己：究竟什么才是真正值得交付的软件。
+</p>
+
+---
+
 ## 💼 求职状态
 
 - 正在寻找新的工作机会
@@ -69,7 +83,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=7513ae09-512f-4c46-aa17-373364a00e08&langs_count=7&theme=github_dark_dimmed"/>
+   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=7513ae09-512f-4c46-aa17-373364a00e08&langs_count=8&theme=github_dark_dimmed"/>
     </td>
     <td>
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=FullStackPath&layout=donut&langs_count=7&theme=github_dark_dimmed"/>
