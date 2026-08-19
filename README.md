@@ -3,8 +3,8 @@
 </div>
 <br/>
 <div align="center">
- <a href="https://vibecafe.ai/@fullstackpath">
-    <img src="https://vibecafe.ai/@fullstackpath/badge"  width="49%"/>
+  <a href="https://wakatime.com/@7513ae09-512f-4c46-aa17-373364a00e08">
+    <img src="https://wakatime.com/badge/user/7513ae09-512f-4c46-aa17-373364a00e08.svg" width="24%"/>
   </a>
 </div>
 <br/>
