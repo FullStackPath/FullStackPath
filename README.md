@@ -5,7 +5,7 @@
 <div align="center">
  <a href="https://vibecafe.ai/@fullstackpath">
     <img src="https://vibecafe.ai/@fullstackpath/badge"  width="49%"/>
-  </a> 
+  </a>
 </div>
 <br/>
 <div align="center">
@@ -51,11 +51,16 @@ AI 生成的代码，我会投入大量时间进行审核、理解、重构与�
 - 方向：前端 / Java后端 / 全栈开发
 - 城市：广州
 - 欢迎联系交流或内推
+
 ---
 
-## 🛠 技术栈
+## 📊 数据统计
 
 <div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+   <div align="center">
 
 <b>前端</b>
 
@@ -74,19 +79,9 @@ AI 生成的代码，我会投入大量时间进行审核、理解、重构与�
 <img src="https://skillicons.dev/icons?i=git,maven,idea,androidstudio,postman,github,npm,pnpm&perline=8" />
 
 </div>
-
----
-
-## 📊 数据统计
-
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=7513ae09-512f-4c46-aa17-373364a00e08&langs_count=8&theme=github_dark_dimmed"/>
     </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=FullStackPath&layout=donut&langs_count=7&theme=github_dark_dimmed"/>
+        <td>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=FullStackPath&layout=donut&langs_count=7&theme=github_dark_dimmed"/>
     </td>
   </tr>
 </table>
